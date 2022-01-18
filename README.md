@@ -1,4 +1,5 @@
 ## Hey 👋, I'm [İbrahim Ethem İspir](https://github.com/ibrahim-ethem-ispir/)
+![Profile views](https://komarev.com/ghpvc/?username=ibrahim-ethem-ispir&color=blue)
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://www.minareyazilim.com/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/MinareYazilim)
