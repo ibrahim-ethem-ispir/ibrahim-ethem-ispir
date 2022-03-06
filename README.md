@@ -7,7 +7,6 @@
 
 I am studying at Kahramanmaraş Sütçü İmam University. 🎓. I have decided to become a software developer with my interest in technology since I was a child and I am improving myself in this field 💡. I take care to discover new technologies and to use the technologies I have used in the most accurate and reliable way. ✨Apart from these, I prepare videos that can be useful for beginners and software developers on my youtube channel. 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-Joined Github **1** years ago.
 
 ## Hello, 👋 would you like to check out my youtube channel? [Minare Yazılım](https://www.youtube.com/c/MinareYaz%C4%B1l%C4%B1m)
  
