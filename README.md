@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/KadimTeknoloji)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/minareyazilim/)
 
-I am studying at Kahramanmaraş Sütçü İmam University. 🎓. I have decided to become a software developer with my interest in technology since I was a child and I am improving myself in this field 💡. I take care to discover new technologies and to use the technologies I have used in the most accurate and reliable way. ✨Apart from these, I prepare videos that can be useful for beginners and software developers on my youtube channel. 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+Hello, I am İbrahim Ethem İspir. I am working as a Full Stack Developer in a Private Company. I Share Project Documents and Some Projects I Have Taken on My Youtube Channel in my Github Repositories.
 
 
 ## Hello, 👋 would you like to check out my youtube channel ? [Kadim Teknoloji](https://www.youtube.com/c/KadimTeknoloji)
