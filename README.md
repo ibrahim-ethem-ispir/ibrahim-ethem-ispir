@@ -1,17 +1,58 @@
-## Hey 👋, I'm [İbrahim Ethem İspir](https://github.com/ibrahim-ethem-ispir/)
-![Profile views](https://komarev.com/ghpvc/?username=ibrahim-ethem-ispir&color=blue)
+<h1 align="center">🛡️ İbrahim Ethem İspir</h1>
+<h3 align="center">Security Researcher & Software Developer</h3>
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://www.kadimteknoloji.com/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/KadimTeknoloji)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/minareyazilim/)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ibrahim-ethem-ispir&color=blue" alt="Profile views" />
+</p>
 
-Hello, I am İbrahim Ethem İspir. I am working as a Full Stack Developer in a Private Company. I Share Project Documents and Some Projects I Have Taken on My Youtube Channel in my Github Repositories.
+<p align="center">
+  <a href="http://www.kadimteknoloji.com/"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://twitter.com/KadimTeknoloji"><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.instagram.com/minareyazilim/"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/c/KadimTeknoloji"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
+</p>
 
+---
 
-## Hello, 👋 would you like to check out my youtube channel ? [Kadim Teknoloji](https://www.youtube.com/c/KadimTeknoloji)
- 
+### 👨‍💻 About
 
-### Talking about Personal Stuffs:
+Security researcher and full stack developer. I build **event-driven microservice architectures** and **autonomous security scanning systems**, and research offensive security tooling.
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, <br /> RestApi, Mongodb, Javascript.
-- 🚀 &nbsp; Backend Developer.
+- 🔭 Currently working on autonomous security scanning and attack-graph driven tooling
+- ⚡ Backend: microservices, event-driven systems (RabbitMQ / Kafka), monitoring (Prometheus)
+- 🧠 Interested in LLM-assisted security analysis and automation
+- 🎬 Sharing project documentation and write-ups on **[Kadim Teknoloji](https://www.youtube.com/c/KadimTeknoloji)**
+
+---
+
+### 🧰 Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,rust,go,typescript,javascript,react,fastapi,nodejs,express&perline=9" alt="languages & frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,rabbitmq,kafka,docker,linux,git,npm,pytorch&perline=9" alt="infra & data" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ibrahim-ethem-ispir&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-ethem-ispir&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+---
+
+### 🚀 Projects
+
+**[Kadim Güvenlik](https://github.com/ibrahim-ethem-ispir/kadim-guvenlik)** — Open-source autonomous security scanning platform. Orchestrates nmap, nuclei, subfinder, fuzzing and OSINT across 15 microservices (Python / Rust / Go / React) with an attack-graph engine and optional AI advisor.
+
+<p align="center">
+  <img src="https://github.com/ibrahim-ethem-ispir/kadim-guvenlik/raw/master/assets/screenshots/anasayfa.png" alt="Kadim Güvenlik dashboard" width="720" />
+</p>
+
+---
+
+### 📺 YouTube — [Kadim Teknoloji](https://www.youtube.com/c/KadimTeknoloji)
+
+Project documentation, development breakdowns and security research.
